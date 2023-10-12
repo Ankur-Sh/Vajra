@@ -5,6 +5,9 @@
     <td>
        <a href="https://github.com/Ankur-Sh/Vajra/graphs/contributors" align="center">
           <img src="https://contrib.rocks/image?repo=Ankur-Sh/Vajra" />
+         <img src="https://contrib.rocks/image?repo=ashadmuneer/Vajra" />
+         <img src="https://contrib.rocks/image?repo=ADITYA0714/Vajra" />
+         <img src="https://contrib.rocks/image?repo=Akshat-706/Vajra" />
        </a>
     </td>
   </tr>
