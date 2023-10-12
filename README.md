@@ -4,7 +4,7 @@
   <tr>
     <td>
        <a href="https://github.com/Ankur-Sh/Vajra/graphs/contributors" align="center">
-          <img src="https://contrib.rocks/image?repo=Ankur-Sh/Vajra" />
+          <img src="https://contrib.rocks/image?repo=ashadmuneer/Vajra" />
        </a>
     </td>
   </tr>
